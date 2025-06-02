@@ -1,34 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
-  
-  <title>Frontend Mentor | Blog preview card</title>
-
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
-</head>
-<body>
-
-  Learning
-
-  Published 21 Dec 2023
-
-  HTML & CSS foundations
-
-  These languages are the backbone of every website, defining structure, content, and presentation.
-
-  Greg Hooper
-  
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
-</body>
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="./styles/main.css" />
+    <title>Frontend Mentor | Blog preview card</title>
+  </head>
+  <body>
+    <main>
+      <article class="course">
+        <img
+          class="course__img"
+          src="./assets/images/illustration-article.svg"
+          alt=""
+          width="336"
+          height="201"
+        />
+        <div class="course__content">
+          <p class="course__tag text-preset-3-800">Learning</p>
+          <time class="text-preset-3-500" datetime="2023-12-21"
+            >Published 21 Dec 2023</time
+          >
+          <h2 class="course__title text-preset-1-800">
+            <span class="uppercase">html & css</span> foundations
+          </h2>
+          <p class="course__description text-preset-2-500">
+            These languages are the backbone of every website, defining
+            structure, content, and presentation.
+          </p>
+        </div>
+        <div class="course__teacher">
+          <img
+            class="course__teacher-avatar"
+            src="assets/images/image-avatar.webp"
+            alt="Portrait of Greg Hooper"
+          />
+          <p class="text-preset-3-800 course__teacher-name">Greg Hooper</p>
+        </div>
+      </article>
+    </main>
+  </body>
 </html>
