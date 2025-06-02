@@ -21,9 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-<!-- Todo -->
-
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/pixel-perfect-qr-code-component-challenge-KrBFHviT-d)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/pixel-almost-perfect-blog-preview-card-bP5EjW7n-T)
 - Live Site URL: [QR code component live](https://danijel374.github.io/fem-blog-preview-card/)
 
 ## My process
