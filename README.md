@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![screenshoot of the project](./screenshot.png)
+![screenshot of the project](./screenshot.png)
 
 ### Links
 
@@ -39,11 +39,11 @@ Think about it for a bit before starting to code
 
 ### What I learned
 
-I can't think anything particular this was my second challenge on frontend mentor,similiar to first one simple
+I can't think anything particular this was my second challenge on frontend mentor,similar to first one simple
 
 ### Continued development
 
-Focusing on responsive design and trying to achive pixel almost perfect,using figma and Pixel Perfect Pro extention for the task.
+Focusing on responsive design and trying to achieve pixel almost perfect,using figma and Pixel Perfect Pro extension for the task.
 
 ## Author
 
